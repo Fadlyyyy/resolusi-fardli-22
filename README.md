@@ -1,2 +1,2 @@
 # resolusi-fardli-22
-Repository funtuk menyimpan rencana resolusi ku di 2022
+Repository untuk menyimpan rencana resolusi ku di 2022
